@@ -1,0 +1,21 @@
+body{
+    background-color:aqua;
+    color:blue;
+    font-family: 'Gwendolyn', cursive;
+}
+.heading{
+    width: 70%;
+    font-size: 60px;
+}
+.name_objects{
+    font-size: 45px;
+    color:firebrick;
+}
+p{
+    font-size: 45px;
+}
+#camera{
+width:350px;
+height: 300px;
+border:2px dashed red; 
+}
